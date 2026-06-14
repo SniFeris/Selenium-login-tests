@@ -1,0 +1,4 @@
+**/__pycahe__/
+**/.pytest_cache/
+*.pyc
+**/report.html
